@@ -1,0 +1,18 @@
+:root {
+  --cr-primary: #1A1A1A;
+  --cr-white: #ffffff;
+  --cr-gray: #E5E5E5;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+.calender-wrapper {
+  height: 700px;
+}
